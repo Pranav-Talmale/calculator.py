@@ -9,4 +9,7 @@ if opr=="+":
 elif opr=="-":
     print(a-b)
 
+elif opr=="*":
+    print(a*b)
+
 else: print("Operation Not Permitted")
