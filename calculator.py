@@ -5,5 +5,8 @@ opr=input("Input Task: ")
 
 if opr=="+":
     print(a+b)
+    
+elif opr=="-":
+    print(a-b)
 
 else: print("Operation Not Permitted")
